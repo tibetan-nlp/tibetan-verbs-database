@@ -15,6 +15,10 @@ Other sources would be welcome:
 
 - དག་ཡིག་གསར་བསྒྲིགཀ།, unknown date (quite recent), apparently a reference in Tibet
 
+## Exceptions
+
+The auxiliary ཤོག་ present in PH has not been added in this database.
+
 ## Method
 
 The initial idea was to make a list with the correct forms of as many verbs as possible, with the second suffix ད. This is impossible though, as each Tibetan grammarian can have a different point of view on verb forms (which is surprising for a Westerner). So this database contains the raw data from the different sources, untouched: no choice has been made about the correctness of the different forms.
