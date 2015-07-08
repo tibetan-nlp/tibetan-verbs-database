@@ -6,7 +6,7 @@ This repository aims at being a database of Tibetan verbs in their four forms (p
 
 Its sources (tagged in each verb) are:
 
-- TDCM: བོད་རྒྱ་ཚིག་མཛོད་ཆེན་མོ།, 1993 (available on the [TBRC](http://www.tbrc.org/#library_work_ViewInWIndow-W29329|I1KG15044|3|1|829|876))
+- TDC: བོད་རྒྱ་ཚིག་མཛོད་ཆེན་མོ།, 1993 (available on the [TBRC](http://www.tbrc.org/#library_work_ViewInWIndow-W29329|I1KG15044|3|1|829|876))
 - GT: དུས་གསུམ་རེའུ་མིག་ཐུ་མིའི་དགོངས་གཏེར། by རྩོམ་པ་པོ་མཁར་སྟོད་རྡོ་རྗེ་དབང་ཕྱུག།, 1964
 - PH: *A Tibetan Verb Lexicon* by Paul G. Hackett
 - KN: དུས་གསུམ་རྣམ་གཞག། by Khenpo Karma Namgyal, edited by Vajra Vidhya, available on [dharmadownload.net](http://www.dharmadownload.net/pages/english/Texts/texts_0038.htm)
@@ -15,9 +15,13 @@ Other sources would be welcome:
 
 - དག་ཡིག་གསར་བསྒྲིགཀ།, unknown date (quite recent), apparently a reference in Tibet
 
+Sources purposedly not included:
+
+- བོད་སྐད་ཀྱི་བརྡ་སྤྲོད་གསར་བསྒྲིགས་སྨྲ་སྒོའི་ལྡེ་མིག by གླང་རི་བ་ཐུབ་བསྟན་སྦྱིན་པས་བརྩམས, 2010 (controversial and mosty covered by this list, differences look like mistakes)
+
 ## Exceptions
 
-The auxiliary ཤོག་ present in PH has not been added in this database.
+The auxiliary ཤོག་ present in PH has not been added in this database. Some verbs appear in the main section of the TDC but not in the verb list at the end (འཁུས for instance), they are noted as included in the TDC.
 
 ## Method
 
