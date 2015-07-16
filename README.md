@@ -2,24 +2,21 @@
 
 This repository aims at being a database of Tibetan verbs in their four forms (past, present, future, imperative).
 
+To access the database directly, click on [db.csv](db.csv).
+
 ## Sources
 
-Its sources (tagged in each verb) are:
-
-- TDC: བོད་རྒྱ་ཚིག་མཛོད་ཆེན་མོ།, 1993 (available on the [TBRC](http://www.tbrc.org/#library_work_ViewInWIndow-W29329|I1KG15044|3|1|829|876))
-- GT: དུས་གསུམ་རེའུ་མིག་ཐུ་མིའི་དགོངས་གཏེར། by རྩོམ་པ་པོ་མཁར་སྟོད་རྡོ་རྗེ་དབང་ཕྱུག།, 1964
-- PH: *A Tibetan Verb Lexicon* by Paul G. Hackett
-- KN: དུས་གསུམ་རྣམ་གཞག། by Khenpo Karma Namgyal, edited by Vajra Vidhya, available on [dharmadownload.net](http://www.dharmadownload.net/pages/english/Texts/texts_0038.htm)
+Its sources (tagged in each verb) are TDC,GT, PH and KN, see [bibliography](https://github.com/eroux/tibetan-spellchecker/blob/master/doc/bibliography.md) for references.
 
 Other sources would be welcome:
 
-- དག་ཡིག་གསར་བསྒྲིགཀ།, unknown date (quite recent), apparently a reference in Tibet
+- དག་ཡིག་གསར་བསྒྲིག།, unknown date (quite recent), apparently a reference in Tibet
 
 Sources purposedly not included:
 
 - བོད་སྐད་ཀྱི་བརྡ་སྤྲོད་གསར་བསྒྲིགས་སྨྲ་སྒོའི་ལྡེ་མིག by གླང་རི་བ་ཐུབ་བསྟན་སྦྱིན་པས་བརྩམས, 2010 (controversial and mosty covered by this list, differences look like mistakes)
 
-## Exceptions
+## Notes
 
 The auxiliary ཤོག་ present in PH has not been added in this database.
 
@@ -31,7 +28,7 @@ The initial idea was to make a list with the correct forms of as many verbs as p
 
 ## What can I do with it?
 
-There are already many things possible with this database (available thought the [database.py](database.py) script:
+There are already many things possible with this database script:
 
 - get all syllables that may contain a second suffix ད
 - get all syllables that may be verbs
